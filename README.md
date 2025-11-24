@@ -327,7 +327,7 @@ Contributions are welcome! Please read CONTRIBUTING.md for details on our code o
 
 ## 📞 Support
 
-For support, email rattudacsit2021gate@gmail.com or join our Slack channel.
+For support, email rattudacsit2021gate@gmail.com 
 
 ## 🙏 Acknowledgments
 
